@@ -1,4 +1,4 @@
-package com.rbittencourt.springailab;
+package com.rbittencourt.springailab.mapping;
 
 import java.util.List;
 
